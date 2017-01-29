@@ -26,7 +26,7 @@
   {
     "id": 3,
     "number": 3,
-    "caption": "112%20HD",
+    "caption": "112 HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -50,7 +50,7 @@
   {
     "id": 5,
     "number": 5,
-    "caption": "24%20%u0411%u0435%u043B%u0430%u0440%u0443%u0441%u044C",
+    "caption": "24 Беларусь",
     "icon_url": "",
     "tv_categories": [
       2
@@ -62,7 +62,7 @@
   {
     "id": 6,
     "number": 6,
-    "caption": "24%20%u0414%u043E%u043A",
+    "caption": "24 Док",
     "icon_url": "",
     "tv_categories": [
       2
@@ -86,7 +86,7 @@
   {
     "id": 8,
     "number": 8,
-    "caption": "5%20%u043A%u0430%u043D%u0430%u043B",
+    "caption": "5 канал",
     "icon_url": "",
     "tv_categories": [
       2
@@ -98,7 +98,7 @@
   {
     "id": 9,
     "number": 9,
-    "caption": "8%20%u043A%u0430%u043D%u0430%u043B",
+    "caption": "8 канал",
     "icon_url": "",
     "tv_categories": [
       2
@@ -110,7 +110,7 @@
   {
     "id": 10,
     "number": 10,
-    "caption": "9%20%u041E%u0440%u0431%u0438%u0442%u0430",
+    "caption": "9 Орбита",
     "icon_url": "",
     "tv_categories": [
       2
@@ -122,7 +122,7 @@
   {
     "id": 11,
     "number": 11,
-    "caption": "A-One%20Hip-Hop",
+    "caption": "A-One Hip-Hop",
     "icon_url": "",
     "tv_categories": [
       2
@@ -134,7 +134,7 @@
   {
     "id": 12,
     "number": 12,
-    "caption": "A-One%20Ukraine",
+    "caption": "A-One Ukraine",
     "icon_url": "",
     "tv_categories": [
       2
@@ -146,7 +146,7 @@
   {
     "id": 13,
     "number": 13,
-    "caption": "Amedia%201",
+    "caption": "Amedia 1",
     "icon_url": "",
     "tv_categories": [
       2
@@ -158,7 +158,7 @@
   {
     "id": 14,
     "number": 14,
-    "caption": "Amedia%202",
+    "caption": "Amedia 2",
     "icon_url": "",
     "tv_categories": [
       2
@@ -170,7 +170,7 @@
   {
     "id": 15,
     "number": 15,
-    "caption": "Amedia%20HD",
+    "caption": "Amedia HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -182,7 +182,7 @@
   {
     "id": 16,
     "number": 16,
-    "caption": "Amedia%20SD",
+    "caption": "Amedia SD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -194,7 +194,7 @@
   {
     "id": 17,
     "number": 17,
-    "caption": "Animal%20Planet",
+    "caption": "Animal Planet",
     "icon_url": "",
     "tv_categories": [
       2
@@ -206,7 +206,7 @@
   {
     "id": 18,
     "number": 18,
-    "caption": "Animal%20Planet%20HD",
+    "caption": "Animal Planet HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -230,7 +230,7 @@
   {
     "id": 20,
     "number": 20,
-    "caption": "BBC%20News",
+    "caption": "BBC News",
     "icon_url": "",
     "tv_categories": [
       2
@@ -254,7 +254,7 @@
   {
     "id": 22,
     "number": 22,
-    "caption": "BOUTIQUE%20TV",
+    "caption": "BOUTIQUE TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -266,7 +266,7 @@
   {
     "id": 23,
     "number": 23,
-    "caption": "Bridge%20TV",
+    "caption": "Bridge TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -290,7 +290,7 @@
   {
     "id": 25,
     "number": 25,
-    "caption": "Cartoon%20Network",
+    "caption": "Cartoon Network",
     "icon_url": "",
     "tv_categories": [
       2
@@ -302,7 +302,7 @@
   {
     "id": 26,
     "number": 26,
-    "caption": "CBS%20Drama",
+    "caption": "CBS Drama",
     "icon_url": "",
     "tv_categories": [
       2
@@ -314,7 +314,7 @@
   {
     "id": 27,
     "number": 27,
-    "caption": "CBS%20Reality",
+    "caption": "CBS Reality",
     "icon_url": "",
     "tv_categories": [
       2
@@ -326,7 +326,7 @@
   {
     "id": 28,
     "number": 28,
-    "caption": "Comedy%20TV",
+    "caption": "Comedy TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -338,7 +338,7 @@
   {
     "id": 29,
     "number": 29,
-    "caption": "Da%20Vinci%20Learning",
+    "caption": "Da Vinci Learning",
     "icon_url": "",
     "tv_categories": [
       2
@@ -350,7 +350,7 @@
   {
     "id": 30,
     "number": 30,
-    "caption": "Discovery%20Channel",
+    "caption": "Discovery Channel",
     "icon_url": "",
     "tv_categories": [
       2
@@ -362,7 +362,7 @@
   {
     "id": 31,
     "number": 31,
-    "caption": "Discovery%20HD",
+    "caption": "Discovery HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -374,7 +374,7 @@
   {
     "id": 32,
     "number": 32,
-    "caption": "Discovery%20Science",
+    "caption": "Discovery Science",
     "icon_url": "",
     "tv_categories": [
       2
@@ -386,7 +386,7 @@
   {
     "id": 33,
     "number": 33,
-    "caption": "Discovery%20World%09",
+    "caption": "Discovery World\t",
     "icon_url": "",
     "tv_categories": [
       2
@@ -410,7 +410,7 @@
   {
     "id": 35,
     "number": 35,
-    "caption": "Diva%20Universal",
+    "caption": "Diva Universal",
     "icon_url": "",
     "tv_categories": [
       2
@@ -422,7 +422,7 @@
   {
     "id": 36,
     "number": 36,
-    "caption": "E%21%20Russia",
+    "caption": "E! Russia",
     "icon_url": "",
     "tv_categories": [
       2
@@ -434,7 +434,7 @@
   {
     "id": 37,
     "number": 37,
-    "caption": "English%20Club%20TV",
+    "caption": "English Club TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -446,7 +446,7 @@
   {
     "id": 38,
     "number": 38,
-    "caption": "Enter%20Film",
+    "caption": "Enter Film",
     "icon_url": "",
     "tv_categories": [
       2
@@ -470,7 +470,7 @@
   {
     "id": 40,
     "number": 40,
-    "caption": "Euronews%20UA",
+    "caption": "Euronews UA",
     "icon_url": "",
     "tv_categories": [
       2
@@ -494,7 +494,7 @@
   {
     "id": 42,
     "number": 42,
-    "caption": "Eurosport%202",
+    "caption": "Eurosport 2",
     "icon_url": "",
     "tv_categories": [
       2
@@ -506,7 +506,7 @@
   {
     "id": 43,
     "number": 43,
-    "caption": "Eurosport%20HD",
+    "caption": "Eurosport HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -518,7 +518,7 @@
   {
     "id": 44,
     "number": 44,
-    "caption": "Extreme%20Sports",
+    "caption": "Extreme Sports",
     "icon_url": "",
     "tv_categories": [
       2
@@ -530,7 +530,7 @@
   {
     "id": 45,
     "number": 45,
-    "caption": "Fashion%20TV%20Russia",
+    "caption": "Fashion TV Russia",
     "icon_url": "",
     "tv_categories": [
       2
@@ -554,7 +554,7 @@
   {
     "id": 47,
     "number": 47,
-    "caption": "FOX%20Life",
+    "caption": "FOX Life",
     "icon_url": "",
     "tv_categories": [
       2
@@ -566,7 +566,7 @@
   {
     "id": 48,
     "number": 48,
-    "caption": "France%2024",
+    "caption": "France 24",
     "icon_url": "",
     "tv_categories": [
       2
@@ -602,7 +602,7 @@
   {
     "id": 51,
     "number": 51,
-    "caption": "HD%20Fashion",
+    "caption": "HD Fashion",
     "icon_url": "",
     "tv_categories": [
       2
@@ -614,7 +614,7 @@
   {
     "id": 52,
     "number": 52,
-    "caption": "HD%20Life",
+    "caption": "HD Life",
     "icon_url": "",
     "tv_categories": [
       2
@@ -626,7 +626,7 @@
   {
     "id": 53,
     "number": 53,
-    "caption": "HD%20%u041A%u0438%u043D%u043E",
+    "caption": "HD Кино",
     "icon_url": "",
     "tv_categories": [
       2
@@ -638,7 +638,7 @@
   {
     "id": 54,
     "number": 54,
-    "caption": "HD%20%u041A%u0438%u043D%u043E%202",
+    "caption": "HD Кино 2",
     "icon_url": "",
     "tv_categories": [
       2
@@ -650,7 +650,7 @@
   {
     "id": 55,
     "number": 55,
-    "caption": "HD%20%u0421%u043F%u043E%u0440%u0442",
+    "caption": "HD Спорт",
     "icon_url": "",
     "tv_categories": [
       2
@@ -662,7 +662,7 @@
   {
     "id": 56,
     "number": 56,
-    "caption": "History%20HD",
+    "caption": "History HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -674,7 +674,7 @@
   {
     "id": 57,
     "number": 57,
-    "caption": "History%20SD",
+    "caption": "History SD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -698,7 +698,7 @@
   {
     "id": 59,
     "number": 59,
-    "caption": "Impact%20TV",
+    "caption": "Impact TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -710,7 +710,7 @@
   {
     "id": 60,
     "number": 60,
-    "caption": "Investigation%20Discovery",
+    "caption": "Investigation Discovery",
     "icon_url": "",
     "tv_categories": [
       2
@@ -746,7 +746,7 @@
   {
     "id": 63,
     "number": 63,
-    "caption": "Kino%20News",
+    "caption": "Kino News",
     "icon_url": "",
     "tv_categories": [
       2
@@ -758,7 +758,7 @@
   {
     "id": 64,
     "number": 64,
-    "caption": "MCM%20Top",
+    "caption": "MCM Top",
     "icon_url": "",
     "tv_categories": [
       2
@@ -770,7 +770,7 @@
   {
     "id": 65,
     "number": 65,
-    "caption": "Menu%20TV",
+    "caption": "Menu TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -782,7 +782,7 @@
   {
     "id": 66,
     "number": 66,
-    "caption": "Mezzo%20HD",
+    "caption": "Mezzo HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -794,7 +794,7 @@
   {
     "id": 67,
     "number": 67,
-    "caption": "MGM%20channel",
+    "caption": "MGM channel",
     "icon_url": "",
     "tv_categories": [
       2
@@ -806,7 +806,7 @@
   {
     "id": 68,
     "number": 68,
-    "caption": "MGM%20channel%20HD",
+    "caption": "MGM channel HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -830,7 +830,7 @@
   {
     "id": 70,
     "number": 70,
-    "caption": "MTV%20Dance",
+    "caption": "MTV Dance",
     "icon_url": "",
     "tv_categories": [
       2
@@ -842,7 +842,7 @@
   {
     "id": 71,
     "number": 71,
-    "caption": "MTV%20Hits",
+    "caption": "MTV Hits",
     "icon_url": "",
     "tv_categories": [
       2
@@ -854,7 +854,7 @@
   {
     "id": 72,
     "number": 72,
-    "caption": "MTV%20Live%20HD",
+    "caption": "MTV Live HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -866,7 +866,7 @@
   {
     "id": 73,
     "number": 73,
-    "caption": "MTV%20Rocks",
+    "caption": "MTV Rocks",
     "icon_url": "",
     "tv_categories": [
       2
@@ -878,7 +878,7 @@
   {
     "id": 74,
     "number": 74,
-    "caption": "Music%20BOX",
+    "caption": "Music BOX",
     "icon_url": "",
     "tv_categories": [
       2
@@ -890,7 +890,7 @@
   {
     "id": 75,
     "number": 75,
-    "caption": "Nat%20Geo%20HD",
+    "caption": "Nat Geo HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -902,7 +902,7 @@
   {
     "id": 76,
     "number": 76,
-    "caption": "Nat%20Geo%20Wild",
+    "caption": "Nat Geo Wild",
     "icon_url": "",
     "tv_categories": [
       2
@@ -914,7 +914,7 @@
   {
     "id": 77,
     "number": 77,
-    "caption": "Nat%20Geo%20Wild%20HD",
+    "caption": "Nat Geo Wild HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -926,7 +926,7 @@
   {
     "id": 78,
     "number": 78,
-    "caption": "National%20Geographic",
+    "caption": "National Geographic",
     "icon_url": "",
     "tv_categories": [
       2
@@ -938,7 +938,7 @@
   {
     "id": 79,
     "number": 79,
-    "caption": "News%20One",
+    "caption": "News One",
     "icon_url": "",
     "tv_categories": [
       2
@@ -950,7 +950,7 @@
   {
     "id": 80,
     "number": 80,
-    "caption": "NHK%20World",
+    "caption": "NHK World",
     "icon_url": "",
     "tv_categories": [
       2
@@ -974,7 +974,7 @@
   {
     "id": 82,
     "number": 82,
-    "caption": "Nickelodeon%20HD",
+    "caption": "Nickelodeon HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -986,7 +986,7 @@
   {
     "id": 83,
     "number": 83,
-    "caption": "Ocean%20TV",
+    "caption": "Ocean TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1022,7 +1022,7 @@
   {
     "id": 86,
     "number": 86,
-    "caption": "Outdoor%20Channel",
+    "caption": "Outdoor Channel",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1034,7 +1034,7 @@
   {
     "id": 87,
     "number": 87,
-    "caption": "Paramount%20Comedy",
+    "caption": "Paramount Comedy",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1046,7 +1046,7 @@
   {
     "id": 88,
     "number": 88,
-    "caption": "PRO%20%u0412%u0421%u0415",
+    "caption": "PRO ВСЕ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1070,7 +1070,7 @@
   {
     "id": 90,
     "number": 90,
-    "caption": "Real%20Estate%20TV",
+    "caption": "Real Estate TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1082,7 +1082,7 @@
   {
     "id": 91,
     "number": 91,
-    "caption": "RTG%20TV",
+    "caption": "RTG TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1106,7 +1106,7 @@
   {
     "id": 93,
     "number": 93,
-    "caption": "RU%20Music",
+    "caption": "RU Music",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1130,7 +1130,7 @@
   {
     "id": 95,
     "number": 95,
-    "caption": "Rusong%20TV",
+    "caption": "Rusong TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1142,7 +1142,7 @@
   {
     "id": 96,
     "number": 96,
-    "caption": "Russian%20Extreme",
+    "caption": "Russian Extreme",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1154,7 +1154,7 @@
   {
     "id": 97,
     "number": 97,
-    "caption": "S%20TV",
+    "caption": "S TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1166,7 +1166,7 @@
   {
     "id": 98,
     "number": 98,
-    "caption": "Shopping%20TV",
+    "caption": "Shopping TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1202,7 +1202,7 @@
   {
     "id": 101,
     "number": 101,
-    "caption": "TLC%20HD",
+    "caption": "TLC HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1214,7 +1214,7 @@
   {
     "id": 102,
     "number": 102,
-    "caption": "Travel%20Channel",
+    "caption": "Travel Channel",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1226,7 +1226,7 @@
   {
     "id": 103,
     "number": 103,
-    "caption": "Travel%20Channel%20HD",
+    "caption": "Travel Channel HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1238,7 +1238,7 @@
   {
     "id": 104,
     "number": 104,
-    "caption": "TV%201000",
+    "caption": "TV 1000",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1250,7 +1250,7 @@
   {
     "id": 105,
     "number": 105,
-    "caption": "TV%201000%20Action",
+    "caption": "TV 1000 Action",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1262,7 +1262,7 @@
   {
     "id": 106,
     "number": 106,
-    "caption": "TV%201000%20%u0420%u0443%u0441%u0441%u043A%u043E%u0435%20%u043A%u0438%u043D%u043E",
+    "caption": "TV 1000 Русское кино",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1274,7 +1274,7 @@
   {
     "id": 107,
     "number": 107,
-    "caption": "TV%20XXI",
+    "caption": "TV XXI",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1286,7 +1286,7 @@
   {
     "id": 108,
     "number": 108,
-    "caption": "TV1000%20Comedy%20HD",
+    "caption": "TV1000 Comedy HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1298,7 +1298,7 @@
   {
     "id": 109,
     "number": 109,
-    "caption": "TV1000%20MegaHit%20HD",
+    "caption": "TV1000 MegaHit HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1310,7 +1310,7 @@
   {
     "id": 110,
     "number": 110,
-    "caption": "TV1000%20Premium%20HD",
+    "caption": "TV1000 Premium HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1322,7 +1322,7 @@
   {
     "id": 111,
     "number": 111,
-    "caption": "TV5%20Monde",
+    "caption": "TV5 Monde",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1346,7 +1346,7 @@
   {
     "id": 113,
     "number": 113,
-    "caption": "Ukrainian%20fashion",
+    "caption": "Ukrainian fashion",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1370,7 +1370,7 @@
   {
     "id": 115,
     "number": 115,
-    "caption": "VH1%20Classic",
+    "caption": "VH1 Classic",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1382,7 +1382,7 @@
   {
     "id": 116,
     "number": 116,
-    "caption": "VH1%20Music",
+    "caption": "VH1 Music",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1394,7 +1394,7 @@
   {
     "id": 117,
     "number": 117,
-    "caption": "Viasat%20Explorer",
+    "caption": "Viasat Explorer",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1406,7 +1406,7 @@
   {
     "id": 118,
     "number": 118,
-    "caption": "Viasat%20History",
+    "caption": "Viasat History",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1418,7 +1418,7 @@
   {
     "id": 119,
     "number": 119,
-    "caption": "Viasat%20Nature",
+    "caption": "Viasat Nature",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1430,7 +1430,7 @@
   {
     "id": 120,
     "number": 120,
-    "caption": "Viasat%20Nature%20HD",
+    "caption": "Viasat Nature HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1442,7 +1442,7 @@
   {
     "id": 121,
     "number": 121,
-    "caption": "Viasat%20Sport",
+    "caption": "Viasat Sport",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1454,7 +1454,7 @@
   {
     "id": 122,
     "number": 122,
-    "caption": "Viasat%20Sport%20East%20HD",
+    "caption": "Viasat Sport East HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1466,7 +1466,7 @@
   {
     "id": 123,
     "number": 123,
-    "caption": "World%20Fashion",
+    "caption": "World Fashion",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1502,7 +1502,7 @@
   {
     "id": 126,
     "number": 126,
-    "caption": "%u0410%u0432%u0442%u043E%20%u041F%u043B%u044E%u0441",
+    "caption": "Авто Плюс",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1514,7 +1514,7 @@
   {
     "id": 127,
     "number": 127,
-    "caption": "%u0411%u043E%u0435%u0446%20%u0422%u0412",
+    "caption": "Боец ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1526,7 +1526,7 @@
   {
     "id": 128,
     "number": 128,
-    "caption": "%u0411%u043E%u0439%u0446%u043E%u0432%u0441%u043A%u0438%u0439%20%u043A%u043B%u0443%u0431",
+    "caption": "Бойцовский клуб",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1538,7 +1538,7 @@
   {
     "id": 129,
     "number": 129,
-    "caption": "%u0411%u0422%u0411",
+    "caption": "БТБ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1550,7 +1550,7 @@
   {
     "id": 130,
     "number": 130,
-    "caption": "%u0412%u043E%u0437%u0440%u043E%u0436%u0434%u0435%u043D%u0438%u0435",
+    "caption": "Возрождение",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1562,7 +1562,7 @@
   {
     "id": 131,
     "number": 131,
-    "caption": "%u0412%u043E%u043F%u0440%u043E%u0441%u044B%20%u0438%20%u043E%u0442%u0432%u0435%u0442%u044B",
+    "caption": "Вопросы и ответы",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1574,7 +1574,7 @@
   {
     "id": 132,
     "number": 132,
-    "caption": "%u0412%u0440%u0435%u043C%u044F%3A%20%u0434%u0430%u043B%u0435%u043A%u043E%u0435%20%u0438%20%u0431%u043B%u0438%u0437%u043A%u043E%u0435",
+    "caption": "Время: далекое и близкое",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1586,7 +1586,7 @@
   {
     "id": 133,
     "number": 133,
-    "caption": "%u0413%u043B%u0430%u0441",
+    "caption": "Глас",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1598,7 +1598,7 @@
   {
     "id": 134,
     "number": 134,
-    "caption": "%u0413%u0440%u043E%u043C%u0430%u0434%u0441%u044C%u043A%u0435%20%u0422%u0411",
+    "caption": "Громадське ТБ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1610,7 +1610,7 @@
   {
     "id": 135,
     "number": 135,
-    "caption": "%u0414%u0435%u0442%u0441%u043A%u0438%u0439",
+    "caption": "Детский",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1622,7 +1622,7 @@
   {
     "id": 136,
     "number": 136,
-    "caption": "%u0414%u0435%u0442%u0441%u043A%u0438%u0439%20%u043C%u0438%u0440",
+    "caption": "Детский мир",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1634,7 +1634,7 @@
   {
     "id": 137,
     "number": 137,
-    "caption": "%u0414%u043E%u0431%u0440%u043E%20%u0422%u0412",
+    "caption": "Добро ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1646,7 +1646,7 @@
   {
     "id": 138,
     "number": 138,
-    "caption": "%u0414%u043E%u0436%u0434%u044C",
+    "caption": "Дождь",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1658,7 +1658,7 @@
   {
     "id": 139,
     "number": 139,
-    "caption": "%u0414%u043E%u043C%20%u043A%u0438%u043D%u043E",
+    "caption": "Дом кино",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1670,7 +1670,7 @@
   {
     "id": 140,
     "number": 140,
-    "caption": "%u0414%u043E%u043C%u0430%u0448%u043D%u0438%u0435%20%u0436%u0438%u0432%u043E%u0442%u043D%u044B%u0435",
+    "caption": "Домашние животные",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1682,7 +1682,7 @@
   {
     "id": 141,
     "number": 141,
-    "caption": "%u0414%u043E%u043C%u0430%u0448%u043D%u0438%u0439",
+    "caption": "Домашний",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1694,7 +1694,7 @@
   {
     "id": 142,
     "number": 142,
-    "caption": "%u0414%u0440%u0430%u0439%u0432",
+    "caption": "Драйв",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1706,7 +1706,7 @@
   {
     "id": 143,
     "number": 143,
-    "caption": "%u0415%u0432%u0440%u043E%u043A%u0438%u043D%u043E",
+    "caption": "Еврокино",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1718,7 +1718,7 @@
   {
     "id": 144,
     "number": 144,
-    "caption": "%u0415%u0432%u0440%u043E%u043F%u0430%20%u041F%u043B%u044E%u0441%20%u0422%u0412",
+    "caption": "Европа Плюс ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1730,7 +1730,7 @@
   {
     "id": 145,
     "number": 145,
-    "caption": "%u0415%u043A%u043E%20%u0422%u0412",
+    "caption": "Еко ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1742,7 +1742,7 @@
   {
     "id": 146,
     "number": 146,
-    "caption": "%u0415%u0441%u043F%u0440%u0435%u0441%u043E%20%u0422%u0412",
+    "caption": "Еспресо ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1754,7 +1754,7 @@
   {
     "id": 147,
     "number": 147,
-    "caption": "%u0416%u0438%u0432%u0430%u044F%20%u041F%u043B%u0430%u043D%u0435%u0442%u0430",
+    "caption": "Живая Планета",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1766,7 +1766,7 @@
   {
     "id": 148,
     "number": 148,
-    "caption": "%u0417%u0430%u0433%u043E%u0440%u043E%u0434%u043D%u044B%u0439",
+    "caption": "Загородный",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1778,7 +1778,7 @@
   {
     "id": 149,
     "number": 149,
-    "caption": "%u0417%u0434%u043E%u0440%u043E%u0432%u043E%u0435%20%u0422%u0412",
+    "caption": "Здоровое ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1790,7 +1790,7 @@
   {
     "id": 150,
     "number": 150,
-    "caption": "%u0418%u043B%u043B%u044E%u0437%u0438%u043E%u043D+",
+    "caption": "Иллюзион+",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1802,7 +1802,7 @@
   {
     "id": 151,
     "number": 151,
-    "caption": "%u0418%u043D%u0434%u0438%u044F%20%u0422%u0412",
+    "caption": "Индия ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1814,7 +1814,7 @@
   {
     "id": 152,
     "number": 152,
-    "caption": "%u0418%u043D%u0442%u0435%u0440",
+    "caption": "Интер",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1826,7 +1826,7 @@
   {
     "id": 153,
     "number": 153,
-    "caption": "%u0418%u043D%u0442%u0435%u0440%u0435%u0441%u043D%u043E%u0435%20%u0422%u0412",
+    "caption": "Интересное ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1838,7 +1838,7 @@
   {
     "id": 154,
     "number": 154,
-    "caption": "%u041A1",
+    "caption": "К1",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1850,7 +1850,7 @@
   {
     "id": 155,
     "number": 155,
-    "caption": "%u041A%u0430%u043D%u0430%u043B%202",
+    "caption": "Канал 2",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1862,7 +1862,7 @@
   {
     "id": 156,
     "number": 156,
-    "caption": "%u041A%u0430%u0440%u0443%u0441%u0435%u043B%u044C",
+    "caption": "Карусель",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1874,7 +1874,7 @@
   {
     "id": 157,
     "number": 157,
-    "caption": "%u041A%u0414%u0420%u0422%u0420%u041A",
+    "caption": "КДРТРК",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1886,7 +1886,7 @@
   {
     "id": 158,
     "number": 158,
-    "caption": "%u041A%u0438%u043D%u043E%20%u043F%u043B%u044E%u0441",
+    "caption": "Кино плюс",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1898,7 +1898,7 @@
   {
     "id": 159,
     "number": 159,
-    "caption": "%u041A%u0438%u043D%u043E%20%u0421%u043E%u044E%u0437",
+    "caption": "Кино Союз",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1910,7 +1910,7 @@
   {
     "id": 160,
     "number": 160,
-    "caption": "%u041A%u0438%u043D%u043E%u043A%u043B%u0443%u0431",
+    "caption": "Киноклуб",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1922,7 +1922,7 @@
   {
     "id": 161,
     "number": 161,
-    "caption": "%u041A%u0438%u043D%u043E%u043F%u043E%u043A%u0430%u0437%20%u0422%u0412",
+    "caption": "Кинопоказ ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1934,7 +1934,7 @@
   {
     "id": 162,
     "number": 162,
-    "caption": "%u041A%u0438%u043D%u043E%u0445%u0438%u0442",
+    "caption": "Кинохит",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1946,7 +1946,7 @@
   {
     "id": 163,
     "number": 163,
-    "caption": "%u041A%u043E%u043C%u0435%u0434%u0438%u044F%20%u0422%u0412",
+    "caption": "Комедия ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1958,7 +1958,7 @@
   {
     "id": 164,
     "number": 164,
-    "caption": "%u041A%u0420%u0422",
+    "caption": "КРТ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1970,7 +1970,7 @@
   {
     "id": 165,
     "number": 165,
-    "caption": "%u041A%u0442%u043E%20%u0435%u0441%u0442%u044C%20%u041A%u0442%u043E",
+    "caption": "Кто есть Кто",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1982,7 +1982,7 @@
   {
     "id": 166,
     "number": 166,
-    "caption": "%u041A%u0443%u043B%u044C%u0442%u0443%u0440%u0430",
+    "caption": "Культура",
     "icon_url": "",
     "tv_categories": [
       2
@@ -1994,7 +1994,7 @@
   {
     "id": 167,
     "number": 167,
-    "caption": "%u041A%u0443%u0445%u043D%u044F%20%u0422%u0412",
+    "caption": "Кухня ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2006,7 +2006,7 @@
   {
     "id": 168,
     "number": 168,
-    "caption": "%u041A%u0425%u041B",
+    "caption": "КХЛ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2018,7 +2018,7 @@
   {
     "id": 169,
     "number": 169,
-    "caption": "%u041B%u044C%u0432%u0456%u0432%20%u0422%u0411",
+    "caption": "Львів ТБ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2030,7 +2030,7 @@
   {
     "id": 170,
     "number": 170,
-    "caption": "%u041B%u044F%20%u041C%u0438%u043D%u043E%u0440",
+    "caption": "Ля Минор",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2042,7 +2042,7 @@
   {
     "id": 171,
     "number": 171,
-    "caption": "%u041C1",
+    "caption": "М1",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2054,7 +2054,7 @@
   {
     "id": 172,
     "number": 172,
-    "caption": "%u041C2",
+    "caption": "М2",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2066,7 +2066,7 @@
   {
     "id": 173,
     "number": 173,
-    "caption": "%u041C%u0410%u041A%u0421%u0406%20%u0422%u0412",
+    "caption": "МАКСІ ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2078,7 +2078,7 @@
   {
     "id": 174,
     "number": 174,
-    "caption": "%u041C%u0430%u043B%u044F%u0442%u043A%u043E",
+    "caption": "Малятко",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2090,7 +2090,7 @@
   {
     "id": 175,
     "number": 175,
-    "caption": "%u041C%u0430%u043C%u0430",
+    "caption": "Мама",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2102,7 +2102,7 @@
   {
     "id": 176,
     "number": 176,
-    "caption": "%u041C%u0435%u0433%u0430",
+    "caption": "Мега",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2114,7 +2114,7 @@
   {
     "id": 177,
     "number": 177,
-    "caption": "%u041C%u0438%u0440%2024",
+    "caption": "Мир 24",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2126,7 +2126,7 @@
   {
     "id": 178,
     "number": 178,
-    "caption": "%u041C%u043D%u043E%u0433%u043E%20%u0422%u0412",
+    "caption": "Много ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2138,7 +2138,7 @@
   {
     "id": 179,
     "number": 179,
-    "caption": "%u041C%u043E%u0441%u043A%u0432%u0430%2024",
+    "caption": "Москва 24",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2150,7 +2150,7 @@
   {
     "id": 180,
     "number": 180,
-    "caption": "%u041C%u043E%u044F%20%u0414%u0438%u0442%u0438%u043D%u0430",
+    "caption": "Моя Дитина",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2162,7 +2162,7 @@
   {
     "id": 181,
     "number": 181,
-    "caption": "%u041C%u043E%u044F%20%u043F%u043B%u0430%u043D%u0435%u0442%u0430",
+    "caption": "Моя планета",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2174,7 +2174,7 @@
   {
     "id": 182,
     "number": 182,
-    "caption": "%u041C%u0443%u0436%u0441%u043A%u043E%u0439",
+    "caption": "Мужской",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2186,7 +2186,7 @@
   {
     "id": 183,
     "number": 183,
-    "caption": "%u041C%u0423%u0417%20%u0422%u0412",
+    "caption": "МУЗ ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2198,7 +2198,7 @@
   {
     "id": 184,
     "number": 184,
-    "caption": "%u041C%u0443%u0437%u044B%u043A%u0430%20%u043F%u0435%u0440%u0432%u043E%u0433%u043E",
+    "caption": "Музыка первого",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2210,7 +2210,7 @@
   {
     "id": 185,
     "number": 185,
-    "caption": "%u041C%u0443%u043B%u044C%u0442%u0438%u043C%u0430%u043D%u0438%u044F",
+    "caption": "Мультимания",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2222,7 +2222,7 @@
   {
     "id": 186,
     "number": 186,
-    "caption": "%u041D%u0430%u0434%u0456%u044F",
+    "caption": "Надія",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2234,7 +2234,7 @@
   {
     "id": 187,
     "number": 187,
-    "caption": "%u041D%u0430%u0443%u043A%u0430%202.0",
+    "caption": "Наука 2.0",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2246,7 +2246,7 @@
   {
     "id": 188,
     "number": 188,
-    "caption": "%u041D%u0430%u0448%20%u0424%u0443%u0442%u0431%u043E%u043B",
+    "caption": "Наш Футбол",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2258,7 +2258,7 @@
   {
     "id": 189,
     "number": 189,
-    "caption": "%u041D%u0430%u0448%20%u0424%u0443%u0442%u0431%u043E%u043B%20HD",
+    "caption": "Наш Футбол HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2270,7 +2270,7 @@
   {
     "id": 190,
     "number": 190,
-    "caption": "%u041D%u0430%u0448%u0435%20%u043A%u0438%u043D%u043E",
+    "caption": "Наше кино",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2282,7 +2282,7 @@
   {
     "id": 191,
     "number": 191,
-    "caption": "%u041D%u0430%u0448%u0435%20%u043B%u044E%u0431%u0438%u043C%u043E%u0435%20%u043A%u0438%u043D%u043E",
+    "caption": "Наше любимое кино",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2294,7 +2294,7 @@
   {
     "id": 192,
     "number": 192,
-    "caption": "%u041D%u0430%u0448%u0435%20%u041D%u043E%u0432%u043E%u0435%20%u041A%u0438%u043D%u043E",
+    "caption": "Наше Новое Кино",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2306,7 +2306,7 @@
   {
     "id": 193,
     "number": 193,
-    "caption": "%u041D%u041B%u041E%20%u0422%u0412",
+    "caption": "НЛО ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2318,7 +2318,7 @@
   {
     "id": 194,
     "number": 194,
-    "caption": "%u041D%u043E%u0432%u0438%u0439%20%u043A%u0430%u043D%u0430%u043B",
+    "caption": "Новий канал",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2330,7 +2330,7 @@
   {
     "id": 195,
     "number": 195,
-    "caption": "%u041D%u043E%u0432%u0438%u043D%u0438%2024",
+    "caption": "Новини 24",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2342,7 +2342,7 @@
   {
     "id": 196,
     "number": 196,
-    "caption": "%u041D%u043E%u0441%u0442%u0430%u043B%u044C%u0433%u0438%u044F",
+    "caption": "Ностальгия",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2354,7 +2354,7 @@
   {
     "id": 197,
     "number": 197,
-    "caption": "%u041D%u0421%u0422",
+    "caption": "НСТ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2366,7 +2366,7 @@
   {
     "id": 198,
     "number": 198,
-    "caption": "%u041D%u0422%u0412+%203D%20by%20Panasonic",
+    "caption": "НТВ+ 3D by Panasonic",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2378,7 +2378,7 @@
   {
     "id": 199,
     "number": 199,
-    "caption": "%u041D%u0422%u0412+%20%u0411%u0430%u0441%u043A%u0435%u0442%u0431%u043E%u043B",
+    "caption": "НТВ+ Баскетбол",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2390,7 +2390,7 @@
   {
     "id": 200,
     "number": 200,
-    "caption": "%u041D%u0422%u0412+%20%u0421%u043F%u043E%u0440%u0442",
+    "caption": "НТВ+ Спорт",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2402,7 +2402,7 @@
   {
     "id": 201,
     "number": 201,
-    "caption": "%u041D%u0422%u0412+%20%u0421%u043F%u043E%u0440%u0442%20%u041F%u043B%u044E%u0441",
+    "caption": "НТВ+ Спорт Плюс",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2414,7 +2414,7 @@
   {
     "id": 202,
     "number": 202,
-    "caption": "%u041D%u0422%u0412+%20%u0421%u043F%u043E%u0440%u0442%20%u0421%u043E%u044E%u0437",
+    "caption": "НТВ+ Спорт Союз",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2426,7 +2426,7 @@
   {
     "id": 203,
     "number": 203,
-    "caption": "%u041D%u0422%u0412+%20%u0422%u0435%u043D%u043D%u0438%u0441",
+    "caption": "НТВ+ Теннис",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2438,7 +2438,7 @@
   {
     "id": 204,
     "number": 204,
-    "caption": "%u041D%u0422%u0412+%20%u0424%u0443%u0442%u0431%u043E%u043B%201",
+    "caption": "НТВ+ Футбол 1",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2450,7 +2450,7 @@
   {
     "id": 205,
     "number": 205,
-    "caption": "%u041D%u0422%u0412+%20%u0424%u0443%u0442%u0431%u043E%u043B%202",
+    "caption": "НТВ+ Футбол 2",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2462,7 +2462,7 @@
   {
     "id": 206,
     "number": 206,
-    "caption": "%u041D%u0422%u0412+%20%u0424%u0443%u0442%u0431%u043E%u043B%202%20HD",
+    "caption": "НТВ+ Футбол 2 HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2474,7 +2474,7 @@
   {
     "id": 207,
     "number": 207,
-    "caption": "%u041D%u0422%u0412+%20%u0424%u0443%u0442%u0431%u043E%u043B%203%20HD",
+    "caption": "НТВ+ Футбол 3 HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2486,7 +2486,7 @@
   {
     "id": 208,
     "number": 208,
-    "caption": "%u041D%u0422%u0412+%20%u0424%u0443%u0442%u0431%u043E%u043B%20HD",
+    "caption": "НТВ+ Футбол HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2498,7 +2498,7 @@
   {
     "id": 209,
     "number": 209,
-    "caption": "%u041D%u0422%u041D",
+    "caption": "НТН",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2510,7 +2510,7 @@
   {
     "id": 210,
     "number": 210,
-    "caption": "%u041E%u0440%u0443%u0436%u0438%u0435",
+    "caption": "Оружие",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2522,7 +2522,7 @@
   {
     "id": 211,
     "number": 211,
-    "caption": "%u041E%u0422%u0420",
+    "caption": "ОТР",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2534,7 +2534,7 @@
   {
     "id": 212,
     "number": 212,
-    "caption": "%u041E%u0445%u043E%u0442%u0430%20%u0438%20%u0440%u044B%u0431%u0430%u043B%u043A%u0430",
+    "caption": "Охота и рыбалка",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2546,7 +2546,7 @@
   {
     "id": 213,
     "number": 213,
-    "caption": "%u041F%u0430%u0440%u043A%20%u0420%u0430%u0437%u0432%u043B%u0435%u0447%u0435%u043D%u0438%u0439",
+    "caption": "Парк Развлечений",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2558,7 +2558,7 @@
   {
     "id": 214,
     "number": 214,
-    "caption": "%u041F%u0435%u0440%u0435%u0446%20%u0422%u0412",
+    "caption": "Перец ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2570,7 +2570,7 @@
   {
     "id": 215,
     "number": 215,
-    "caption": "%u041F%u0435%u0440%u0448%u0438%u0439",
+    "caption": "Перший",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2582,7 +2582,7 @@
   {
     "id": 216,
     "number": 216,
-    "caption": "%u041F%u0435%u0440%u0448%u0438%u0439%20%u0434%u0456%u043B%u043E%u0432%u0438%u0439",
+    "caption": "Перший діловий",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2594,7 +2594,7 @@
   {
     "id": 217,
     "number": 217,
-    "caption": "%u041F%u0435%u0440%u0448%u0438%u0439%20%u041D%u0430%u0446%u0456%u043E%u043D%u0430%u043B%u044C%u043D%u0438%u0439",
+    "caption": "Перший Національний",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2606,7 +2606,7 @@
   {
     "id": 218,
     "number": 218,
-    "caption": "%u041F%u0438%u043A%u0441%u0435%u043B%u044C",
+    "caption": "Пиксель",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2618,7 +2618,7 @@
   {
     "id": 219,
     "number": 219,
-    "caption": "%u041F%u043B%u0430%u043D%u0435%u0442%u0430%20%u0422%u0412",
+    "caption": "Планета ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2630,7 +2630,7 @@
   {
     "id": 220,
     "number": 220,
-    "caption": "%u041F%u043B%u044E%u0441%20%u041F%u043B%u044E%u0441",
+    "caption": "Плюс Плюс",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2642,7 +2642,7 @@
   {
     "id": 221,
     "number": 221,
-    "caption": "%u041F%u0440%u0430%u0432%u043E%20TV",
+    "caption": "Право TV",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2654,7 +2654,7 @@
   {
     "id": 222,
     "number": 222,
-    "caption": "%u041F%u0440%u0435%u043C%u044C%u0435%u0440%u0430",
+    "caption": "Премьера",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2666,7 +2666,7 @@
   {
     "id": 223,
     "number": 223,
-    "caption": "%u041F%u0440%u043E%u0441%u0432%u0435%u0449%u0435%u043D%u0438%u0435",
+    "caption": "Просвещение",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2678,7 +2678,7 @@
   {
     "id": 224,
     "number": 224,
-    "caption": "%u041F%u0441%u0438%u0445%u043E%u043B%u043E%u0433%u0438%u044F21",
+    "caption": "Психология21",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2690,7 +2690,7 @@
   {
     "id": 225,
     "number": 225,
-    "caption": "%u041F%u044F%u0442%u043D%u0438%u0446%u0430",
+    "caption": "Пятница",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2702,7 +2702,7 @@
   {
     "id": 226,
     "number": 226,
-    "caption": "%u0420%u0430%u0434%u0430",
+    "caption": "Рада",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2714,7 +2714,7 @@
   {
     "id": 227,
     "number": 227,
-    "caption": "%u0420%u0435%u0442%u0440%u043E",
+    "caption": "Ретро",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2726,7 +2726,7 @@
   {
     "id": 228,
     "number": 228,
-    "caption": "%u0420%u043E%u0441%u0441%u0438%u044F%202",
+    "caption": "Россия 2",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2738,7 +2738,7 @@
   {
     "id": 229,
     "number": 229,
-    "caption": "%u0420%u043E%u0441%u0441%u0438%u044F%20K",
+    "caption": "Россия K",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2750,7 +2750,7 @@
   {
     "id": 230,
     "number": 230,
-    "caption": "%u0420%u0443%u0441%u0441%u043A%u0438%u0439%20%u0438%u043B%u043B%u044E%u0437%u0438%u043E%u043D",
+    "caption": "Русский иллюзион",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2762,7 +2762,7 @@
   {
     "id": 231,
     "number": 231,
-    "caption": "%u0421%u043E%u0432%u0435%u0440%u0448%u0435%u043D%u043D%u043E%20%u0421%u0435%u043A%u0440%u0435%u0442%u043D%u043E",
+    "caption": "Совершенно Секретно",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2774,7 +2774,7 @@
   {
     "id": 232,
     "number": 232,
-    "caption": "%u0421%u043E%u043D%u0446%u0435",
+    "caption": "Сонце",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2786,7 +2786,7 @@
   {
     "id": 233,
     "number": 233,
-    "caption": "%u0421%u043F%u0430%u0441",
+    "caption": "Спас",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2798,7 +2798,7 @@
   {
     "id": 234,
     "number": 234,
-    "caption": "%u0421%u043F%u043E%u0440%u0442",
+    "caption": "Спорт",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2810,7 +2810,7 @@
   {
     "id": 235,
     "number": 235,
-    "caption": "%u0421%u043F%u043E%u0440%u0442%201",
+    "caption": "Спорт 1",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2822,7 +2822,7 @@
   {
     "id": 236,
     "number": 236,
-    "caption": "%u0421%u043F%u043E%u0440%u0442%201%20HD",
+    "caption": "Спорт 1 HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2834,7 +2834,7 @@
   {
     "id": 237,
     "number": 237,
-    "caption": "%u0421%u043F%u043E%u0440%u0442%201%20%u0423%u043A%u0440%u0430%u0438%u043D%u0430",
+    "caption": "Спорт 1 Украина",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2846,7 +2846,7 @@
   {
     "id": 238,
     "number": 238,
-    "caption": "%u0421%u043F%u043E%u0440%u0442%202%20%u0423%u043A%u0440%u0430%u0438%u043D%u0430",
+    "caption": "Спорт 2 Украина",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2858,7 +2858,7 @@
   {
     "id": 239,
     "number": 239,
-    "caption": "%u0421%u043F%u043E%u0440%u0442%u0445%u0438%u0442",
+    "caption": "Спортхит",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2870,7 +2870,7 @@
   {
     "id": 240,
     "number": 240,
-    "caption": "%u0421%u0422%u0411",
+    "caption": "СТБ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2882,7 +2882,7 @@
   {
     "id": 241,
     "number": 241,
-    "caption": "%u0421%u0422%u0421",
+    "caption": "СТС",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2894,7 +2894,7 @@
   {
     "id": 242,
     "number": 242,
-    "caption": "%u0422%u04123",
+    "caption": "ТВ3",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2906,7 +2906,7 @@
   {
     "id": 243,
     "number": 243,
-    "caption": "%u0422%u0412i",
+    "caption": "ТВi",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2918,7 +2918,7 @@
   {
     "id": 244,
     "number": 244,
-    "caption": "%u0422%u0412%u0426",
+    "caption": "ТВЦ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2930,7 +2930,7 @@
   {
     "id": 245,
     "number": 245,
-    "caption": "%u0422%u0414%u041A",
+    "caption": "ТДК",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2942,7 +2942,7 @@
   {
     "id": 246,
     "number": 246,
-    "caption": "%u0422%u0435%u043B%u0435%u043A%u0430%u043D%u0430%u043B%20100",
+    "caption": "Телеканал 100",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2954,7 +2954,7 @@
   {
     "id": 247,
     "number": 247,
-    "caption": "%u0422%u0435%u043B%u0435%u043A%u0430%u043D%u0430%u043B%20%u0424%u0443%u0442%u0431%u043E%u043B",
+    "caption": "Телеканал Футбол",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2966,7 +2966,7 @@
   {
     "id": 248,
     "number": 248,
-    "caption": "%u0422%u0435%u043B%u0435%u043A%u0430%u0444%u0435",
+    "caption": "Телекафе",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2978,7 +2978,7 @@
   {
     "id": 249,
     "number": 249,
-    "caption": "%u0422%u0415%u0422",
+    "caption": "ТЕТ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -2990,7 +2990,7 @@
   {
     "id": 250,
     "number": 250,
-    "caption": "%u0422%u0435%u0445%u043D%u043E%2024",
+    "caption": "Техно 24",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3002,7 +3002,7 @@
   {
     "id": 251,
     "number": 251,
-    "caption": "%u0422%u041D%u0412%20%u041F%u043B%u0430%u043D%u0435%u0442%u0430",
+    "caption": "ТНВ Планета",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3014,7 +3014,7 @@
   {
     "id": 252,
     "number": 252,
-    "caption": "%u0422%u043E%u043D%u0438%u0441%20HD",
+    "caption": "Тонис HD",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3026,7 +3026,7 @@
   {
     "id": 253,
     "number": 253,
-    "caption": "%u0422%u0420%u041A%20%u041A%u0438%u0457%u0432",
+    "caption": "ТРК Київ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3038,7 +3038,7 @@
   {
     "id": 254,
     "number": 254,
-    "caption": "%u0422%u0420%u041A%20%u0423%u043A%u0440%u0430%u0457%u043D%u0430",
+    "caption": "ТРК Україна",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3050,7 +3050,7 @@
   {
     "id": 255,
     "number": 255,
-    "caption": "%u0422%u0440%u043E%u0444%u0435%u0439",
+    "caption": "Трофей",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3062,7 +3062,7 @@
   {
     "id": 256,
     "number": 256,
-    "caption": "%u0423%u043D%u0456%u0430%u043D",
+    "caption": "Уніан",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3074,7 +3074,7 @@
   {
     "id": 257,
     "number": 257,
-    "caption": "%u0423%u041D%u0422",
+    "caption": "УНТ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3086,7 +3086,7 @@
   {
     "id": 258,
     "number": 258,
-    "caption": "%u0423%u0441%u0430%u0434%u044C%u0431%u0430",
+    "caption": "Усадьба",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3098,7 +3098,7 @@
   {
     "id": 259,
     "number": 259,
-    "caption": "%u0423%u0441%u043F%u0435%u0445",
+    "caption": "Успех",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3110,7 +3110,7 @@
   {
     "id": 260,
     "number": 260,
-    "caption": "%u0424%u0435%u043D%u0438%u043A%u0441%20+%20%u043A%u0438%u043D%u043E",
+    "caption": "Феникс + кино",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3122,7 +3122,7 @@
   {
     "id": 261,
     "number": 261,
-    "caption": "%u0424%u0443%u0442%u0431%u043E%u043B%201",
+    "caption": "Футбол 1",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3134,7 +3134,7 @@
   {
     "id": 262,
     "number": 262,
-    "caption": "%u0424%u0443%u0442%u0431%u043E%u043B%202",
+    "caption": "Футбол 2",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3146,7 +3146,7 @@
   {
     "id": 263,
     "number": 263,
-    "caption": "%u0425%u043E%u043A%u0435%u0439",
+    "caption": "Хокей",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3158,7 +3158,7 @@
   {
     "id": 264,
     "number": 264,
-    "caption": "%u0427%u0435%u0440%u043D%u043E%u043C%u043E%u0440%u0441%u043A%u0430%20%u0422%u0412",
+    "caption": "Черноморска ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3170,7 +3170,7 @@
   {
     "id": 265,
     "number": 265,
-    "caption": "%u0427%u041F%20%u0406%u043D%u0444%u043E",
+    "caption": "ЧП Інфо",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3182,7 +3182,7 @@
   {
     "id": 266,
     "number": 266,
-    "caption": "%u0428%u0430%u043D%u0441%u043E%u043D%20%u0422%u0412",
+    "caption": "Шансон ТВ",
     "icon_url": "",
     "tv_categories": [
       2
@@ -3194,7 +3194,7 @@
   {
     "id": 267,
     "number": 267,
-    "caption": "%u042E%20%u0422%u0412",
+    "caption": "Ю ТВ",
     "icon_url": "",
     "tv_categories": [
       2
